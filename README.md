@@ -1,5 +1,5 @@
 # codigo-postal-portugal
-breve projecto em bulma css e api do zippopotam que permite buscar codigo postal de portugal
+breve projecto em bulma css e a fazer fetch no api do zippopotam que permite buscar codigo postal de portugal
 
 
 ## info geral
